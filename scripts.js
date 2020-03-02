@@ -22,7 +22,7 @@ if (document.getElementsByClassName('demo').length > 0) {
 
               - Minor: Computer Science
 
-            Skills: Python, Java, R, Git, SQL
+            Skills: Python, Java, R, SQL
             
             Email: nicklas.rouvinen@gmail.com`;
 
