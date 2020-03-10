@@ -21,8 +21,6 @@ if (document.getElementsByClassName('demo').length > 0) {
               - Major: Mathematics - Computer Applications
 
               - Minor: Computer Science
-
-            Skills: Python, Java, R, SQL
             
             Email: nicklas.rouvinen@gmail.com`;
 
